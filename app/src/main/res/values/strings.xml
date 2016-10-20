@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="usd">US Dollars</string>
+    <string name="us_dollars">Enter US Dollars amount</string>
+    <string name="E">Euros</string>
+    <string name="E_Euros">Enter Euros amount</string>
+</resources>
